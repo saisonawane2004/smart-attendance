@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿## Smart Attendance Pro
 
 Professional attendance software with QR verification, location validation, role-based operations, and analytics.
@@ -49,3 +50,7 @@ Open: [http://localhost:8080](http://localhost:8080)
 
 ### Professional Product Header
 All dashboards are branded as **Smart Attendance Pro** with a unified premium UI and responsive layout.
+=======
+# smart-attendance
+Final Year Project
+>>>>>>> 85f90dad4f5569bed88e77f32b190f6bc4139939
